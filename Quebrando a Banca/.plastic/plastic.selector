@@ -1,0 +1,4 @@
+repository "Quebrando a Banca@GuZaSe@cloud"
+  path "/"
+    br "/main"
+    co "/main"
